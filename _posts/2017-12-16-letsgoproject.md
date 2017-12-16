@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Let''s Go project #1] First practice
+title: [My Go Project #1] First practice
 tags: [Go]
 ---
 
