@@ -5,7 +5,7 @@ tags: [Go]
 ---
 
 첫 번째 고 언어 공부
-with "A Tour of Go" (https://go-tour-kr.appspot.com)
+with "A Tour of Go" (https://tour.golang.org)
 
-Basic grammar practice
-
+1. Basic grammar practice
+C/Java 와 비교
