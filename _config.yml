@@ -5,7 +5,7 @@ url: "https://kuongee.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Jeesoo Blog
+  title: Sharing Blog
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -22,14 +22,14 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: kuongee@gmail.com
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "kuongee"
   google_plus:
   instagram:
   keybase:
@@ -40,7 +40,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: # "twitter"
   vimeo:
   wordpress:
   youtube:
