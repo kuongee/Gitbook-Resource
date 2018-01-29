@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Study &#35;Scalable Web Architecture and Distributed Systems
+title: Scalable Web Architecture and Distributed Systems
 tags: [Study, Distributed System]
 ---
 
 ## Scalable Web Architecture and Distributed Sysems
 by Kate Matsudaira (aosabook.org)
 
-### 1. Slices
-Fixed size를 가지는 Array에 **dynamic size** 특성을 추가
+### 1. Design of Large-scale web systems
+Make system **scalable**! 
+: Distribute resource or accessing them across multiple servers
 
 > Slice is like a reference to an array.
 > A slice is a descriptor of an array segment.
