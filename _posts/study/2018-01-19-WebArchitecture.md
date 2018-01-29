@@ -10,10 +10,10 @@ by Kate Matsudaira (aosabook.org)
 
 ### 1. Design of Large-scale web systems
 * Make system **scalable**!
-	Distribute resource or accessing them across multiple servers
+	-Distribute resource or accessing them across multiple servers
 * Principle
-	Availability, Performance, Reliability, Scalability, Manageability, Cost
-	Consider trade-offs each other
+	-Availability, Performance, Reliability, Scalability, Manageability, Cost
+	-Consider trade-offs each other
 
 ### 2. 
 
