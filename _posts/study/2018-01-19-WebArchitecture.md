@@ -4,8 +4,8 @@ title: Study &#35;Scalable Web Architecture and Distributed Systems
 tags: [Study, Distributed System]
 ---
 
-## 두 번째 고 언어 공부
-with [A Tour of Go](https://tour.golang.org)
+## Scalable Web Architecture and Distributed Sysems
+by Kate Matsudaira (aosabook.org)
 
 ### 1. Slices
 Fixed size를 가지는 Array에 **dynamic size** 특성을 추가
