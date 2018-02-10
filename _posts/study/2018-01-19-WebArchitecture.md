@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scalable Web Architecture and Distributed Systems
-tags: [Study, Distributed System]
+tags: [Distributed System]
 ---
 
 ## Scalable Web Architecture and Distributed Sysems
