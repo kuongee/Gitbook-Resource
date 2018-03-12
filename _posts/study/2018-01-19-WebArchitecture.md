@@ -15,8 +15,6 @@ by Kate Matsudaira (aosabook.org)
  -Availability, Performance, Reliability, Scalability, Manageability, Cost
  -Consider trade-offs each other
 
-### 2. 
-
 
 
 
