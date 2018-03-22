@@ -19,6 +19,22 @@ Problem of GeeksforGeeks site.
 ### 3월 22일
 GeeksforGeeks
 
-700222 Determine if Two Trees are Identical(Function Problem)
+700222 Determine if Two Trees are Identical(Function Problem) 
+
+700134 Size of Binary Tree (Function Problem)
+
+700135 Inorder Traversal (Function problem)
+
+#### Remember
+
+Binary tree Inorder traversal pseudo code
+
+{% highlight js %}
+void Indorder(Node root) {
+	Inorder(root.left);
+	do_something(root);
+	Inorder(root.right);
+}
+{% endhighlight %}
 
 
