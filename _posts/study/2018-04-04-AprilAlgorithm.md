@@ -11,3 +11,8 @@ tags: [Algorithm]
 BOJ 1021
 
 Remember! Array size and index!!
+
+### 4월 7일
+
+BOJ 1024 - Read a problem carefully!
+
