@@ -16,3 +16,5 @@ Remember! Array size and index!!
 
 BOJ 1024 - Read a problem carefully!
 
+### 4월 9일
+BOJ 11441 - Time complexity 
