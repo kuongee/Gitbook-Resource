@@ -18,3 +18,6 @@ BOJ 1024 - Read a problem carefully!
 
 ### 4월 9일
 BOJ 11441 - Time complexity 
+
+### 4월 10일
+Geek for Geeks X Total Shapes - BFS
