@@ -12,7 +12,7 @@ tags: [Web development]
 
 웹 기반 어플리케이션에 대한 이해를 돕기 위해 웹 개발 스터디에 참여했다.
 
-Node.js(javascript)로 진행. 
+Node.js(javascript), ajax + MariaDB
 
 스터디의 과제 중 일부인 이미지 업로드 부분에 대해 정리.
 
@@ -21,15 +21,13 @@ Node.js(javascript)로 진행.
 ### 2. 이미지 업로드 
 ![첫 페이지 모습](/assets/img/webDevelopment/web_imageUpload1.png)
 
-Node.js, ajax
-
-#### 1. multer 사용
+### 1. multer 사용
 * multer 사용법 <https://github.com/expressjs/multer>
 
 ### 2. Database
-MariaDB
+MariaDB 사용
 
-image 테이블 생성 후 저장하는 이미지의 제목만 저장.
+image 테이블 생성 후 저장하는 이미지의 제목만 저장하고 개별 아이디 번호를 부여.
 
 이미지의 제목은 앞부분에 타임스탬프를 덧붙여 저장. &rarr; multer에서 처리
 
