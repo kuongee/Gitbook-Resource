@@ -19,7 +19,7 @@ Node.js(javascript)로 진행.
 (kenu님의 도움을 받아 스터디 및 개발이 진행 되었습니다.)
 
 ### 2. 이미지 업로드 
-![첫 페이지 모습](assets/img/webDevelopment/web_imageUpload1.png)
+![첫 페이지 모습](./assets/img/webDevelopment/web_imageUpload1.png)
 
 Node.js, ajax
 
