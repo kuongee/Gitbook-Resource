@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Web Development':' Image Upload
+title: Web Development&#58; Image Upload
 tags: [Web development]
 ---
 
-## Express.js 기반 웹 어플리케이션에서 이미지 업로드하기
+## Node.js 기반 웹 어플리케이션에서 이미지 업로드하기
 이 프로젝트는 <https://github.com/kuongee/The-First-Web-Page> 공개되어있습니다.
 
 ### 1. Motivation
@@ -19,10 +19,22 @@ Node.js(javascript)로 진행.
 (kenu님의 도움을 받아 스터디 및 개발이 진행 되었습니다.)
 
 ### 2. 이미지 업로드 
-![첫 페이지 모습](web_imageUpload1.png)
+![첫 페이지 모습](assets/img/webDevelopment/web_imageUpload1.png)
+
+Node.js, ajax
+
 #### 1. multer 사용
 * multer 사용법 <https://github.com/expressjs/multer>
 
+### 2. Database
+MariaDB
+
+image 테이블 생성 후 저장하는 이미지의 제목만 저장.
+
+이미지의 제목은 앞부분에 타임스탬프를 덧붙여 저장. &rarr; multer에서 처리
+
+### 3. 목록 보이기 & 페이징 처리
+kenu님 webbs 참고
     
     
 ### 5. Reference
