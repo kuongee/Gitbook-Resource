@@ -53,6 +53,6 @@ DB와 로컬 디렉토리에서 모두 삭제.
 
     
 ### 5. Reference
-    - kenu님 <https://github.com/kenu/okweb>
-    - kenu님 youtube 강좌(파일 업로드 그리고 DB)
+- kenu님 <https://github.com/kenu/okweb>
+- kenu님 youtube 강좌(파일 업로드 그리고 DB)
 
