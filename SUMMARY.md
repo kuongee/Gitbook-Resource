@@ -15,4 +15,5 @@
     * [두 번째 고 언어 공부](interests/gostudy/2017-12-19-gostudy2.md)
   * [Node.js 기반 웹 어플리케이션에서 이미지 업로드하기](interests/2018-04-20-web_imageupload.md)
   * [Scalable Web Architecture and Distributed Sysems](interests/2018-01-19-webarchitecture.md)
+* [암호화](undefined.md)
 
