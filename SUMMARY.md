@@ -17,5 +17,7 @@
     * [Javascript](javascript/web-front-end/javascript/README.md)
       * [Module 관련](javascript/web-front-end/javascript/module.md)
       * [Webpack](javascript/web-front-end/javascript/webpack.md)
-* [Algorithm](study.md)
+* [Algorithm](study/README.md)
+  * [문제풀이](study/undefined/README.md)
+    * [백준 1146](study/undefined/1146.md)
 
