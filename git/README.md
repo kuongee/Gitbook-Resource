@@ -11,7 +11,7 @@
 * 분산 버전 관리 시스템
 * 파일의 변화를 저장하는 버전관리 시스템들이 있지만 Git은 시간 순으로 프로젝트의 스냅샷을 저장
 
-![https://git-scm.com/book/ko/v1/Git&#xC758;-&#xAE30;&#xCD08;-&#xC218;&#xC815;&#xD558;&#xACE0;-&#xC800;&#xC7A5;&#xC18C;&#xC5D0;-&#xC800;&#xC7A5;&#xD558;&#xAE30;](../.gitbook/assets/image%20%286%29.png)
+![https://git-scm.com/book/ko/v1/Git&#xC758;-&#xAE30;&#xCD08;-&#xC218;&#xC815;&#xD558;&#xACE0;-&#xC800;&#xC7A5;&#xC18C;&#xC5D0;-&#xC800;&#xC7A5;&#xD558;&#xAE30;](../.gitbook/assets/image%20%287%29.png)
 
 
 

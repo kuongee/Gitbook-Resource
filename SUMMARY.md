@@ -6,6 +6,7 @@
   * [Scalable Web Architecture and Distributed Sysems](interests/2018-01-19-webarchitecture.md)
   * [암호화](interests/undefined.md)
 * [Git](git/README.md)
+  * [gerrit으로 코드리뷰하기](git/gerrit.md)
   * [Tip](git/tip.md)
 * [Go 언어](gostudy/README.md)
   * [Go 언어로 TCP/IP 소켓 서버 만들어보기](gostudy/2018-03-08-goserver.md)
