@@ -2,6 +2,8 @@
 
 * [오늘의 스터디](README.md)
 * [Interests](interests/README.md)
+  * [Electron으로 데스크탑 앱 만들기](interests/electron/README.md)
+    * [Main process & Renderer process](interests/electron/main-process-and-renderer-process.md)
   * [Node.js 기반 웹 어플리케이션에서 이미지 업로드하기](interests/2018-04-20-web_imageupload.md)
   * [Scalable Web Architecture and Distributed Sysems](interests/2018-01-19-webarchitecture.md)
   * [암호화](interests/undefined.md)
