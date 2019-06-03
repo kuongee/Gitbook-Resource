@@ -1,4 +1,4 @@
-# Local project에서 사용자 정보 바꾸기
+# \[Git\] Local project에서 사용자 정보 바꾸기
 
 local project에서 사용자 정보 바꾸기
 
