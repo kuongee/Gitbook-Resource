@@ -11,6 +11,7 @@
   * [\[Git\] Local project에서 사용자 정보 바꾸기](tool-and-tip/local-project.md)
   * [\[VSCode\] 디버깅 하기](tool-and-tip/undefined.md)
   * [\[Gerrit\]으로 코드리뷰하기](tool-and-tip/gerrit.md)
+  * [유용한 툴 \(+ 신기한 툴\)](tool-and-tip/undefined-1.md)
 * [Git](git/README.md)
   * [git push](git/git-push.md)
 * [Go 언어](gostudy/README.md)
