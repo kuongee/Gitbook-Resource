@@ -14,14 +14,14 @@ launch.json은 디버깅을 설정하고 저장하는 파일이며 .vscode 폴�
 - VSCode \[Debug\] 탭에서 설정 버튼\(빨간색 사각형\)을 눌러 'launch.json'파일을 연다.  
 - 또는 파란색 사각형의 세모 버튼을 눌러 열어 configuration을 추가할 수도 있다.
 
-![&#xAE30;&#xBCF8; Node.js &#xC758; &#xB514;&#xBC84;&#xAE45; &#xC124;&#xC815;](../.gitbook/assets/image%20%2812%29.png)
+![&#xAE30;&#xBCF8; Node.js &#xC758; &#xB514;&#xBC84;&#xAE45; &#xC124;&#xC815;](../.gitbook/assets/image%20%2814%29.png)
 
 #### 2\)  Configuration 추가해보기
 
 여기서는 Electron 어플리케이션에 대한 설정을 추가하여 디버깅을 진행해본다.  
 [https://electronjs.org/docs/tutorial/debugging-main-process-vscode](https://electronjs.org/docs/tutorial/debugging-main-process-vscode)
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 Attribute 설명
 
@@ -38,5 +38,5 @@ Attribute 설명
 
 원하는 디버깅 설정을 선택하고 실행해본다.
 
-![&#xC2E4;&#xD589; &#xD654;&#xBA74;](../.gitbook/assets/image%20%285%29.png)
+![&#xC2E4;&#xD589; &#xD654;&#xBA74;](../.gitbook/assets/image%20%287%29.png)
 
