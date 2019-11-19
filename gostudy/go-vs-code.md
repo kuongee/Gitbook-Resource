@@ -17,7 +17,7 @@ description: '2019-11-19'
 
    ```
    $ sudo tar -C /usr/local -xzf go1.13.4.linux-amd64.tar.gz
-   $ export PATH=/usr/local/go/bin:$PATH
+   $ export PATH=$PATH:/usr/local/go/bin
    $ go version
    $ go env
    ```
