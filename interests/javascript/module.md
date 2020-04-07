@@ -1,4 +1,4 @@
-# Module
+# \[Javascript\] Module
 
 ### JavaScript Module <a id="Module&#xAD00;&#xB828;-JavaScriptModule"></a>
 

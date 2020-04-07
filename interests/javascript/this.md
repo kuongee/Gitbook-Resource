@@ -2,7 +2,7 @@
 description: Eloquent Javascript 속 내용
 ---
 
-# 함수 속 this
+# \[Javascript\] 함수 속 this
 
 function으로 정의된 함수에는 호출된 방식에 따라 달라지는 바인딩된 **this**를 갖고 있음
 

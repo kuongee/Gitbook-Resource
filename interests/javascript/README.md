@@ -1,4 +1,4 @@
-# Javascript
+# \[Javascript\]
 
 * HTML의 내용을 동적으로 바꿀 수 있다.
   * HTML에서 &lt;script&gt; ... &lt;/script&gt; 태그를 이용해서 스크립트 코드를 넣을 수 있다.
